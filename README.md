@@ -1,0 +1,3 @@
+# SOFTWARE ENGINEERING
+
+An exercise project for practices...
